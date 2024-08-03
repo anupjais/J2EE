@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.myj2ee.Bike"/>
+    <fullyQualifiedTypeName name="com.myj2ee.Vehicle"/>
+    <fullyQualifiedTypeName name="com.myj2ee.HelpVehicle"/>
+    <fullyQualifiedTypeName name="com.person.Ramesh"/>
+    <fullyQualifiedTypeName name="com.person.Student"/>
+    <fullyQualifiedTypeName name="com.person.Dingi"/>
+    <fullyQualifiedTypeName name="com.person.Person"/>
+    <fullyQualifiedTypeName name="javax.swing.tree.AbstractLayoutCache"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+</qualifiedTypeNameHistroy>

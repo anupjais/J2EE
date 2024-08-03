@@ -1,0 +1,9 @@
+package com.myj2ee;
+
+public class Driver {
+
+	public static void main(String[] args) {
+		Vehicle v = HelpVehicle.getVehicle();
+		v.run();
+	}
+}

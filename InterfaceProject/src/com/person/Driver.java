@@ -1,0 +1,13 @@
+package com.person;
+
+public class Driver {
+
+	public static void main(String[] args) {
+		Student s = new Dingi();
+		
+		Person p = s.getPerson();
+		p.study();
+		
+	}
+
+}
